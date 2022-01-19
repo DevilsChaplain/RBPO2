@@ -9,7 +9,7 @@ int main()
 	std::cout << "f = " << f << std::endl;
 	std::cout << "x = ";
 	std::cin >> x;
-	f = -sqrt(x);
+	f = tan(3*x);
 	std::cout << "f = " << f << std::endl;
 	return 0;
 }
