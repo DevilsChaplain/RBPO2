@@ -1,0 +1,5 @@
+﻿  task9_func.cpp
+  task9_main.cpp
+C:\Users\Илья\source\repos\task10\task10\task9_main.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  task10.vcxproj -> C:\Users\Илья\source\repos\task10\Debug\task10.exe
