@@ -1,8 +1,9 @@
 ﻿#include <cmath>
 
-static double x = 2;
-static double res;
+using namespace std;
 
-static void f() {
+double x;
+double res;
+ void f() {
     res = tan(3*x);
 }
